@@ -1,0 +1,32 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+body{
+    background: rgb(8, 94, 109);
+}
+div{
+    background: rgb(157, 226, 243);
+    margin:30px;
+    padding:10px;
+    height:610px;
+}
+h1{
+    margin:30px;
+    background:rgb(11, 101, 117);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    margin:10px 0px 0px 30px;
+    font-size: 16px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    margin:10px;
+    background:rgb(11, 101, 117);
+    width:600px;
+    font-size:20px;
+}
